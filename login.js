@@ -15,7 +15,7 @@ function submitFunction()
             alert("You re logged in");
                     }
         else {
-            alert("Username incorrect");
+            alert("Username or password is incorrect");
         }
     }
 }
